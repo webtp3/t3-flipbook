@@ -217,6 +217,7 @@
                         </label>
                         <el type="array">
                             <field_toc_entry type="array">
+                                <title></title>
                                 <type>array</type>
                                 <label>
                                     LLL:EXT:flipbook/Resources/Private/Language/locallang_db.xlf:flexform.sheet.toc.chapter
