@@ -26,7 +26,7 @@ ExtensionManagementUtility::addPageTSConfig(trim(
 						description =  Show flipbook from PDF
 						iconIdentifier = tx-flipbook
 						tt_content_defValues {
-							CType = flipbook
+							CType = flipbook_show
 						}
 					}
 				}
